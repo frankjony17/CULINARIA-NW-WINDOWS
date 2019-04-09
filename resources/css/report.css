@@ -1,0 +1,15 @@
+
+.report {
+    border-radius: 2px 2px 2px 2px;
+    margin: 10px;
+    background-color: #ffffff;
+    border: 1px solid #d4d4d4;
+    padding: 35px 35px;
+}
+
+.report-tbtext {
+    border-radius: 2px 2px 2px 2px;
+    background-color: #f6f6f6;
+    border: 1px solid #dadada;
+    padding: 5px 5px;
+}

@@ -1,0 +1,12 @@
+{
+    "database": "culinaria",
+    "user": "culinaria",
+    "password": "--+8Q2M4K6F7X3A1I5O9***",
+    "server": {
+        "dialect": "sqlite",
+        "define": {
+            "timestamps": false
+        },
+        "storage": "resources/sqlite/culinaria.db"
+    }
+}

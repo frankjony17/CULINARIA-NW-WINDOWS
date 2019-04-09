@@ -1,0 +1,46 @@
+/*
+    Created on : 19-nov-2015, 22:49:56
+    Author     : frank.ricardo
+*/
+.util {
+    background-image : url(../images/util.png) !important;
+}
+/* Grid Demanda Color Row*/
+.x-grid-row-color-pendiente {
+    background-color: #ffd0dc;
+}
+.x-grid-row-color-satisfecha {
+    background-color: #94ccb7;
+}
+
+/**
+ * Tablas
+ */
+.tablestyle table {margin: 0;padding: 0;box-sizing: border-box;}
+.tablestyle table {color: #333;font-family: sans-serif;font-size: .9em;line-height: 40px;border-spacing: 0;border: 1px solid #60a3dd;width: 720px;background-color: #eaeff4;}
+.tablestyle thead tr:first-child {background: #60a3dd;color: #fff;border: none;}
+.tablestyle thead tr:last-child th {border-bottom: 2px solid #ddd;}
+.tablestyle tbody tr:hover {background-color: rgba(255, 239, 187, 0.35);}
+.tablestyle tbody tr:last-child td {border-left: 1px solid #ddd;}
+.tablestyle tbody td {border-bottom: 1px solid #ddd; text-align: center;}
+
+/**
+ * Icons
+ */
+.delete-row:before{font:16px/1 FontAwesome;color:#dd6550;content:"\f1f8"}
+.cuota-add:before{font:16px/1 FontAwesome;color:#dd6550;content:"\f155"}
+.otros-menu:before{font:32px/1 FontAwesome;color: #919191;content:"\f00a"}
+
+.cuota-pendiente .x-change-cell {
+    background-color: #ff9594;
+    color: #ffffff;
+    font-weight: bold;
+}
+.cuota-ok .x-change-cell {
+    background-color: #a6ffc7;
+    color: #414345;
+    font-weight: bold;
+}
+.matricula-evaluacion {
+    background-color: #f0ffe8;
+}

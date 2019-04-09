@@ -1,0 +1,27 @@
+{
+  "name": "CULINARIA",
+  "main": "index.html",
+  "version": "0.0.1",
+  "description": "SISTEMA CULINARIO",
+  "window": {
+    "transparent": false,
+    "fullscreen": false,
+    "toolbar": true,
+    "frame": true,
+    "width": 1000,
+    "height": 685,
+    "min_width": 1000,
+    "min_height": 685,
+    "position": "center",
+    "icon": "resources/images/favicon.png"
+  },
+  "scripts": {
+    "test": "UIJ"
+  },
+  "keywords": [
+    "CULINARIA",
+    "UIJ",
+    "CUBA"
+  ],
+  "author": "Maylin"
+}
